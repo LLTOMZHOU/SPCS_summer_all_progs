@@ -1,0 +1,25 @@
+##Day Five
+
+#simulation
+	the imitation of the operation of a real world process or system over time. The act of simulating requires modeling first
+
+#Why simulation
+	simulation is in life cycle of a product
+		#circuit design
+		 mechanical parts
+		 automobile
+		#simulation for products testing
+		#training, testing, experimenting
+
+#Modeling and simulating a physical device
+	#motion:
+		kinematics ==> concerns only the motion
+		dynamics ==> takes into account the force that cause motion
+
+#Holonomic and non-holonoomic drive
+	holonomic ==> cars
+	non-holonomic ==> omni wheel
+
+#differential steering system
+	the differential drive ==> hamster
+

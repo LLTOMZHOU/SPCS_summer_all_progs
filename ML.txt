@@ -1,0 +1,38 @@
+##Machine learning and task level robotics at Autodesk
+
+#task level adaptability
+	sensing the environment ==> interpret signals
+	closing the loop with inference
+	robust level adaptability simplifies robot programming
+
+#Machine learning
+	object recognize
+	....
+
+#Neural networks ==> making models
+	#every neuron
+		1.Weight
+		2.Sum & Bias
+		3.Activation ==> model non-linear relationships
+
+	#more neurons ==> more complex models
+
+	#training neural networks
+		1.compare the ground truth with the actual outcomes ==> calculate the errors
+		2.try different weights and bias (parameters)  ==> approach the actual truth
+		3.gradient descent ==> adjust the parameters faster
+		4.generalization ==> avoid overfitting, by using some data for testing the model
+
+	#Labeled data < unlabeled(without associated results)
+		==> unsupervised learning ==> try to categorize the unlabeled data and use existing labels
+
+
+#Task level assembly using machine learning
+
+#Use simulations (in 3D) to train neural networks
+	run many instances at the same time ==> save time
+	#problem: sensors sometimes catch noise, while data from simulations are really clean
+		==>manually add noise to the data from simulations
+
+
+
